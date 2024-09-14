@@ -179,7 +179,7 @@ while game:
 
         start_but_rect = start_but[st_pos].get_rect(topleft= (st_bt_x,500))
 
-        title = pygame.image.load('gallery/images/title plapy.png')
+        title = pygame.image.load('gallery/images/title flapy.png')
         menu = pygame.image.load('gallery/images/menu.png')
         
 
